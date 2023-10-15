@@ -16,13 +16,12 @@ It provides a simple and automated way to protect your valuable data by regularl
     Once the backup process is completed, it logs a success message.
     
 
-# Installation
-
-
-Follow these steps to install and run the Backup Script:
-
+# Prerequisites
 
 Ensure that you have Python 3.x installed on your machine.
+
+
+# Installation
 
 
 Clone the GitHub repository or download the script files.
@@ -57,7 +56,16 @@ Run the script by executing the following command:
 `python backup_script.py`
 
 
+
 Follow the prompts and enter the backup passphrase when prompted.
+
+
+
+
+![test](https://github.com/0x5FE/AutomaticBackup/assets/65371336/c1669405-a0d3-4943-8ac3-191c5c5c010d)
+
+
+
 
 
 # Possible Errors and Solutions
