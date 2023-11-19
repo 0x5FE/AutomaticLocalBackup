@@ -15,10 +15,6 @@
 - Once the backup process is completed, it logs a success message.
     
 
-# Prerequisites
-
-- Ensure that you have Python 3.x installed on your machine.
-
 
 # Installation
 
